@@ -1,0 +1,6 @@
+caso,nombre,correo,programa,semestre,campo_error,mensaje_esperado
+nombre_corto,Al,al@ceto.edu.co,Ingenieria de Sistemas,3,nombre,El nombre es obligatorio (minimo 3 caracteres)
+correo_invalido,Luis Pinto,luis-ceto.edu.co,Ingenieria de Sistemas,3,correo,Correo invalido
+sin_programa,Luis Pinto,luis@ceto.edu.co,,3,programa,Programa no valido
+semestre_cero,Luis Pinto,luis@ceto.edu.co,Ingenieria Industrial,0,semestre,El semestre debe ser un numero entre 1 y 10
+semestre_once,Luis Pinto,luis@ceto.edu.co,Ingenieria Industrial,11,semestre,El semestre debe ser un numero entre 1 y 10
